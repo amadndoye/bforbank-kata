@@ -1,0 +1,9 @@
+rules:
+  tennis:
+    initialScore: 0
+    conditionBase: Point
+    pointAttribution:
+      firstBall: 15
+      secondBall: 15
+      thirdBall: 10
+      deuce: advantage
