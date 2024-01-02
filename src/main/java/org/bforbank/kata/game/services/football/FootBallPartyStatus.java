@@ -6,5 +6,4 @@ public class FootBallPartyStatus {
     public final static String FREE_KICK = "Free_Kick";
 
 
-
 }
