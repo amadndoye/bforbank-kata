@@ -1,6 +1,6 @@
 package org.bforbank.kata.game;
 
-import org.bforbank.kata.game.services.tennis.TennisService;
+import org.bforbank.kata.game.games.tennis.TennisService;
 
 public class GameApp {
 

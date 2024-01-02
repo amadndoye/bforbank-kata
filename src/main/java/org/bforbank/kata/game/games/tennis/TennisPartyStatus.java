@@ -1,4 +1,4 @@
-package org.bforbank.kata.game.services.tennis;
+package org.bforbank.kata.game.games.tennis;
 
 public class TennisPartyStatus {
     public final static String DEUCE = "Deuce";

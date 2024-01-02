@@ -1,4 +1,4 @@
-package org.bforbank.kata.game.services.football;
+package org.bforbank.kata.game.games.football;
 
 public class FootBallPartyStatus {
     public final static String PENALTY = "Penalty";
